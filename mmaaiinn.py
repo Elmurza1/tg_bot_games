@@ -1,0 +1,1 @@
+print('lf ct,bntcm dct jn vytz')
